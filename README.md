@@ -1,1 +1,1 @@
-# Math_Quantum_Mechanics_Homeworks-
+# Math of Quantum Mechanics Homeworks-
