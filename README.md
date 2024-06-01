@@ -1,6 +1,6 @@
 # Quantum Mechanics Course - Polytechnic of Milan
 
-Repo for 'Mathematics of Quantum Mechanics' course at the Polytechnic of Milan, Master Course in Mathematical Engineering (AY 2023-2024). This repository contains homework assignments and solutions provided by the course instructor.
+Repo for 'Mathematics of Quantum Mechanics' course at the Polytechnic of Milan, Master Course in Mathematical Engineering (AY 2023-2024). This repository contains homework assignments provided by the course instructor and my solutions to those assignments.
 
 ## Course Overview
 
