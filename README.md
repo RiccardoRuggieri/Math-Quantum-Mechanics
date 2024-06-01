@@ -22,7 +22,7 @@ Welcome to the repository for the Quantum Mechanics course at the Polytechnic of
 
 ### Homeworks
 - **Homework 1**
-  - Description: []
+  - Description: [https://github.com/RiccardoRuggieri/Math-Quantum-Mechanics/blob/main/Homework1_ruggieri.pdf]
   - Solution: []
 
 - **Homework 2**
