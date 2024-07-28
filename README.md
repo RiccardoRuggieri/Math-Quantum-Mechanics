@@ -34,6 +34,6 @@ Repo for 'Mathematics of Quantum Mechanics' course at the Polytechnic of Milan, 
 - A variational approach to energy minimization for pertubed free Hamiltonians.
  
 
-For more information about the course, visit the [Polytechnic of Milan]([[https://www.polimi.it/](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=EVENTO&c_insegn=057889&aa=2023&k_cf=225&k_corso_la=487&ac_ins=0&k_indir=MCS&lang=EN&tipoCorso=ALL_TIPO_CORSO&semestre=2&idGruppo=4748&idRiga=296891&codDescr=057889)](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=811722&polij_device_category=DESKTOP&__pj0=0&__pj1=2a1dffc8fd0c6a064b25d0a4b67717cf)) website.
+For more information about the course, visit the [Polytechnic of Milan](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=811722&__pj0=0&__pj1=56624147333f2b1d91833fe6addd4fcd) website.
 
 
