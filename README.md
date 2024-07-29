@@ -31,7 +31,7 @@ Repo for 'Mathematics of Quantum Mechanics' course at the Polytechnic of Milan, 
   - Perturbed Magnetic Laplacian on the whole space, bounds for the ground state.
  
 ### Seminar
-- A variational approach to energy minimization for pertubed free Hamiltonians.
+- A variational approach to energy minimization for pertubed Hamiltonians.
  
 
 For more information about the course, visit the [Polytechnic of Milan](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=811722&__pj0=0&__pj1=56624147333f2b1d91833fe6addd4fcd) website.
